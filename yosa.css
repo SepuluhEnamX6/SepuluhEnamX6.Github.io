@@ -1,0 +1,61 @@
+.container1 {
+  background-color: #abd1c6;
+  font-style: bold;
+  padding: 2rem;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #abd1c6;
+  font-size: 2rem;
+}
+#piket {
+  background-color: #abd1c6;
+}
+.project {
+  background-color: #abd1c6;
+}
+
+.instagram {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: none;
+}
+#abot {
+  padding: 3.5rem;
+}
+#project {
+  padding: 4rem;
+}
+#yossha_my {
+  padding-top: 4rem;
+}
+
+section.qute {
+  background: url(img/foto\ 1.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  text-decoration: none;
+  text-align: center;
+  font-size: 30px;
+  font-style: italic;
+  padding: 250px;
+}
+
+.icone {
+  size: 100rem;
+  padding: 4px;
+  background-color: black;
+  color: white;
+}
+
+.xxx .sosial i:hover {
+  color: #304ffe;
+}
+
+section#projecttt div img:hover {
+  transition: all 0.2s ease-in-out;
+  transform: scale(1.1);
+}
